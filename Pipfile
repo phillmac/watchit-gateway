@@ -1,0 +1,43 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+certifi = "==2017.11.5"
+chardet = "==3.0.4"
+decorator = "==4.1.2"
+html5lib = "==1.0.1"
+idna = "==2.6"
+ipdb = "==0.10.3"
+ipython = "==6.2.1"
+jedi = "==0.11.1"
+parso = "==0.1.1"
+pexpect = "==4.3.1"
+pickleshare = "==0.7.4"
+prompt-toolkit = "==1.0.15"
+ptyprocess = "==0.5.2"
+pymongo = "==3.6.0"
+requests = "==2.18.4"
+simplegeneric = "==0.8.1"
+six = "==1.11.0"
+traitlets = "==4.3.2"
+urllib3 = "==1.22"
+wcwidth = "==0.1.7"
+webencodings = "==0.5.1"
+marshmallow = "==3.10.0"
+ipython_genutils = "==0.2.0"
+Pygments = "==2.2.0"
+verboselogs = "*"
+coloredlogs = "*"
+ipfshttpclient = "*"
+py-cid = "*"
+validators = "*"
+tqdm = "*"
+gevent = "*"
+ffmpeg-python = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.8"

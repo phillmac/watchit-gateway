@@ -18,3 +18,4 @@ torrent.sh
 !resolvers/dummy/__init__.py
 src/core/media/torrents
 data/ipfs
+output/
